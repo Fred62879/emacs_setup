@@ -1,0 +1,55 @@
+;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8-emacs -*- 
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("rfr"
+ (filename . "/media/fred/Local Disk/Astro_Project/code/rfr/")
+ (front-context-string . "dataset.py\n  drw")
+ (rear-context-string . "83 Mar  1 12:06 ")
+ (position . 235))
+("gpnn"
+ (filename . "/media/fred/Local Disk/Astro_Project/code/gpnn/")
+ (front-context-string . "database\n  drwxr")
+ (rear-context-string . "96 Mar  1 16:14 ")
+ (position . 236))
+("s2s"
+ (filename . "/media/fred/Local Disk/Astro_Project/code/s2s/")
+ (front-context-string . "demo_denoising.p")
+ (rear-context-string . "18 Mar  1 18:09 ")
+ (position . 235))
+("440hw"
+ (filename . "/media/fred/Local Disk/2021W2/CPSC440/HWs/")
+ (front-context-string)
+ (rear-context-string . "Jan 10 15:15 ..\n")
+ (position . 182))
+("406hw"
+ (filename . "/media/fred/Local Disk/2021W2/CPSC406/HWs/")
+ (front-context-string)
+ (rear-context-string . "23 Jan 10 14:25 ")
+ (position . 231))
+("twitter"
+ (filename . "/media/fred/Local Disk/twitter/")
+ (front-context-string . "diary.txt\n  drwx")
+ (rear-context-string . "52 Jan  3 11:32 ")
+ (position . 476))
+("Application"
+ (filename . "/media/fred/Local Disk/Application2/Note.txt")
+ (front-context-string . "\n\nNo Need to con")
+ (rear-context-string . "Close: early Dec")
+ (position . 708))
+("repair.txt"
+ (filename . "/media/fred/Local Disk1/Daily/Car/repair.txt")
+ (front-context-string . "\n** Repaint\nadhe")
+ (rear-context-string . "h rust control\n\n")
+ (position . 387))
+("expenses.txt"
+ (filename . "/media/fred/Local Disk/expenses.txt")
+ (front-context-string . "* Apr\nApr 23: T&")
+ (rear-context-string)
+ (position . 1))
+("astro"
+ (filename . "/media/fred/Local Disk/Astro_Project/code/")
+ (front-context-string . "archive\n  -rwxrw")
+ (rear-context-string . "96 Aug 20 10:07 ")
+ (position . 233))
+)
